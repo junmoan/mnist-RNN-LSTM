@@ -1,2 +1,2 @@
-# mnist-LSTM
-MNIST Dataset Classifier using Long Short-Term Memory (LSTM) networks (>99%)
+# mnist-RNN-LSTM
+MNIST Dataset Classifier using Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) networks (>99%)
